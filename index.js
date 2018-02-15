@@ -35,4 +35,4 @@ function RemoveLastKitten(name){
   return newKittens
 }
 
-function RemoveFirstKitten(name)
+
